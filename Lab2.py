@@ -53,6 +53,7 @@ def main():
     calc_avg(num_list)
     find_min_max(num_list)
     sort_temperature(num_list)
+    print("bye")
 
 if __name__ == "__main__":
     main()
